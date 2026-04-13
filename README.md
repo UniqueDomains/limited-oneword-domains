@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .limited one-word domains from Uni
 
 **Public extract:** 9,325 rows · **Live catalog:** 9,325 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/limited`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| alpha.limited    | available | $14.99    | $52.99        | 90             | 54     | 5      | name.com                                                  |
+| alpha.limited    | available | $14.99    | $52.99        | 90             | 53     | 5      | name.com                                                  |
 | home.limited     | resell    | —         | —             | 100            | 62     | 4      | Spaceship, Inc.                                           |
 | art.limited      | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap                                                 |
 | snap.limited     | available | $14.99    | $52.99        | 90             | 46     | 4      | name.com                                                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIMITED One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIMITED One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
