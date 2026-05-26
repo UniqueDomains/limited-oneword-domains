@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .limited one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,280 domains · **Median ask:** $18.84 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/limited`  
 **Best for:** founders, investors, studios
 
@@ -67,12 +67,12 @@ print(df.head())
 | WiFi.limited      | available | $39.98    | —             | 83             | 37     | 5      | namecheap        |
 | finals.limited    | available | $14.99    | —             | 80             | 7      | 6      | name.com         |
 | ladies.limited    | available | $14.99    | —             | 80             | 17     | 6      | name.com         |
-| getup.limited     | available | $14.99    | —             | 82             | 14     | 6      | name.com         |
+| getup.limited     | available | $14.99    | —             | 82             | 15     | 6      | name.com         |
 | matcha.limited    | available | $14.99    | —             | 86             | 39     | 6      | name.com         |
 | useit.limited     | available | $14.99    | —             | 94             | 7      | 6      | name.com         |
 | edamame.limited   | available | $14.99    | —             | 80             | 9      | 7      | name.com         |
 | playin.limited    | available | $14.99    | —             | 80             | 10     | 7      | name.com         |
-| makeit.limited    | available | $14.99    | —             | 82             | 22     | 7      | name.com         |
+| makeit.limited    | available | $14.99    | —             | 82             | 21     | 7      | name.com         |
 | stirup.limited    | available | $14.99    | —             | 82             | 3      | 7      | name.com         |
 | presents.limited  | available | $14.99    | —             | 80             | 9      | 8      | name.com         |
 | shortcuts.limited | available | $14.99    | —             | 48             | 41     | 10     | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIMITED One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIMITED One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
