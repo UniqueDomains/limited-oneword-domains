@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .limited one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,855 domains · **Median ask:** $19.64 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/limited`
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | chain.limited    | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc. |
 | DIY.limited      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 | bus.limited      | available | $14.99    | —             | high           | low    | 3      | name.com        |
-| transfer.limited | resell    | —         | —             | high           | low    | 8      | Dynadot Inc     |
+| transfer.limited | resell    | —         | —             | medium         | low    | 8      | Dynadot Inc     |
 | joy.limited      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
 | cue.limited      | available | $14.99    | —             | medium         | low    | 3      | name.com        |
 | lol.limited      | premium   | $242      | $242          | high           | low    | 3      | namesilo        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIMITED One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIMITED One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
