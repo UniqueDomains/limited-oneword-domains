@@ -1,10 +1,10 @@
-# Available .LIMITED One-Word Domains (24,045)
+# Available .LIMITED One-Word Domains (26,096)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C045%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C096%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .limited one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,045 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,096 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,045 domains · **Median ask:** $30.03 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 26,096 domains · **Median ask:** $30.34 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/limited`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| ana.limited   | available | $14.99    | —             | high           | low    | 3      | name.com        |
+| ana.limited   | available | $29.18    | $29.18        | high           | low    | 3      | spaceship       |
 | craft.limited | resell    | $14.99    | $52.99        | high           | medium | 5      | Dynadot Inc     |
 | but.limited   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
 | aug.limited   | available | $14.99    | $52.99        | high           | low    | 3      | name.com        |
@@ -74,7 +74,7 @@ print(df.head())
 | ltd.limited   | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap       |
 | btu.limited   | available | $36.99    | $36.99        | high           | low    | 3      | namesilo        |
 | baby.limited  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo        |
-| bus.limited   | available | $14.99    | —             | high           | low    | 3      | name.com        |
+| bus.limited   | available | $36.99    | $36.99        | high           | low    | 3      | namesilo        |
 | cool.limited  | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo        |
 | cxl.limited   | available | $14.99    | $52.99        | high           | low    | 3      | name.com        |
 | item.limited  | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo        |
@@ -82,7 +82,7 @@ print(df.head())
 | tips.limited  | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap       |
 | gur.limited   | available | $36.99    | $36.99        | medium         | low    | 3      | namesilo        |
 | lease.limited | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo        |
-| ire.limited   | available | $37.98    | $39.98        | medium         | low    | 3      | namecheap       |
+| icf.limited   | available | $29.18    | $29.18        | high           | low    | 3      | spaceship       |
 | spots.limited | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,045 live domains                        |
+| 1,000-row public sample | 26,096 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIMITED One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIMITED One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
